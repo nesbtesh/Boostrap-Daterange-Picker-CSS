@@ -17,7 +17,21 @@ Add the file to your CSS path, and then add the following reference to your head
 ```
 ## Documentation
 	
-No documentation needed.
+If you want to use the chevron right and left in the daterange picker you can simply add a reference to the icons in your CSS files. See an example below.
+In this example I am using [Google Icons](https://design.google.com/icons/) you can do the same if you want.
+
+```CSS
+.glyphicon.glyphicon-chevron-left:before{
+  	content: "\E314";
+  	font-family: 'Material Icons';
+  	-webkit-font-feature-settings: 'liga';
+}
+.glyphicon.glyphicon-chevron-right:before{
+   	content: "\E315";
+  	font-family: 'Material Icons';
+  	-webkit-font-feature-settings: 'liga';
+}
+```
 	
 ## License
 
