@@ -1,11 +1,11 @@
 # Bootstrap Date Range Picker CSS 
 
-CSS elements from bootsrap that are used in the Date Range Picker.
+CSS elements from Bootsrap that are used in the Date Range Picker.
 **V1.0**
 
 ## Why?
 
-If you are not using Bootsrap[Bootsrap](http://getbootstrap.com/) for your project but you like using the [Date Range Picker](https://github.com/dangrossman/bootstrap-daterangepicker) you can now use 
+If you are not using [Bootsrap](http://getbootstrap.com/) for your project but you like using the [Date Range Picker](https://github.com/dangrossman/bootstrap-daterangepicker) you can now use 
 this css file containing all the CSS elements from Boostrap used in the Date Range Picker.
 
 ## Getting Started
