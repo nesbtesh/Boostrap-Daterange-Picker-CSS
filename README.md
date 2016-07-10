@@ -5,12 +5,11 @@ CSS elements from Bootsrap that are used in the Date Range Picker.
 
 ## Why?
 
-If you are not using [Bootsrap](http://getbootstrap.com/) for your project but you like using the [Date Range Picker](https://github.com/dangrossman/bootstrap-daterangepicker) you can now use 
-this css file containing all the CSS elements from Boostrap used in the Date Range Picker.
+If you are not using [Bootsrap](http://getbootstrap.com/) for your project but you like using the [Date Range Picker](https://github.com/dangrossman/bootstrap-daterangepicker) you can now use this css file containing all the CSS elements from Boostrap used in the Date Range Picker.
 
 ## Getting Started
 
-Add the file to your CSS path, and then add the following reference to your header tag.
+You first need to add the add [Moment.js](https://github.com/dangrossman/bootstrap-daterangepicker/blob/master/moment.min.js), [daterangepicker.js](https://github.com/dangrossman/bootstrap-daterangepicker/blob/master/daterangepicker.js), and [daterangepicker.css](https://github.com/dangrossman/bootstrap-daterangepicker/blob/master/daterangepicker.css). Lastly add this repo CSS file to your CSS path, and then add the following reference to your header tag.
 
 ```HTML
 	<link href="css/bootsrap-date-range-picker.css" rel="stylesheet"></link>
